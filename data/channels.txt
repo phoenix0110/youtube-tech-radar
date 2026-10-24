@@ -1,0 +1,372 @@
+# handle	cn_name	type_id  (1消费电子评测 2AI·机器学习 3编程开发 4科普·科学 5科技新闻 6极客·网络安全)
+# 来源: tech-recap 调研 + Kabo Top767 + VideoTrends + GitHub AI/ML/CS 目录 + 44 Best CyberSec + Reddit Science 汇总
+# 扩展时间: 2026-10-12
+#
+# ═══════════════════════════════════════════════════
+# ① 消费电子评测型 (consumer-reviews)
+# ═══════════════════════════════════════════════════
+@MKBHD	Marques Brownlee	1
+@Mrwhosetheboss	Mrwhosetheboss	1
+@unboxtherapy	Unbox Therapy	1
+@LinusTechTips	Linus Tech Tips	1
+@JerryRigEverything	JerryRigEverything	1
+@iJustine	iJustine	1
+@austinevans	Austin Evans	1
+@TechnicalGuruji	Technical Guruji	1
+@TrakinTech	Trakin Tech	1
+@TechnologyGyan	Technology Gyan	1
+@techburner	Tech Burner	1
+@TechBar	TechBar	1
+@Dave2D	Dave2D	1
+@Geekyranjit	GeekyRanjit	1
+@TechnoRuhez	TechnoRuhez	1
+@Beebom	Beebom	1
+@supersaf	SuperSaf	1
+@phonebuff	PhoneBuff	1
+@MaxTechOfficial	Max Tech	1
+@SharmajiTechnical	Sharmaji Technical	1
+@ZONEofTECH	Zone of Tech	1
+@TheTechChap	The Tech Chap	1
+@gadgetstouse	Gadgets To Use	1
+@C4ETech	C4ETech	1
+@Pocketnow	Pocketnow	1
+@themrmobile	Mr. Mobile	1
+@TechSpurt	TechSpurt	1
+@iGyaan	iGyaan	1
+@9to5Mac	9to5Mac	1
+@techtablets	TechTablets	1
+@techaltar	TechAltar	1
+@KarlConrad	Karl Conrad	1
+@BeccaFarsace	Becca Farsace	1
+@JoshuaVergara	Joshua Vergara	1
+@Engadget	Engadget	1
+# --- 扩展: 消费电子评测 ---
+@colinfurze	Colin Furze	1
+@MichaelReeves	Michael Reeves	1
+@teaborax	Adam Savages Tested	1
+@TechnologyConnections	Technology Connections	1
+@rossmanngroup	Louis Rossmann	1
+@DankPods	DankPods	1
+@lgr	LGR	1
+@GamerNexus	Gamers Nexus	1
+@HardwareCanucks	Hardware Canucks	1
+@randomfrankp	randomfrankp	1
+@JonathanMorrison	Jonathan Morrison	1
+@AndroidAuthority	Android Authority	1
+@TechWiser	TechWiser	1
+@zaborovskiy	zollotech	1
+@GSMArenaOfficial	GSMArena	1
+@SaraDietschy	Sara Dietschy	1
+@JarrodsTech	Jarrod's Tech	1
+@DawidDoesTechStuff	Dawid Does Tech Stuff	1
+@TechSource	TechSource	1
+@CNET	CNET	1
+@CrazyRussianHacker	CrazyRussianHacker	1
+@actuallycarterpcs	CarterPCs	1
+@FloссyCarter	Flossy Carter	1
+@MobileTechReview	MobileTechReview	1
+@MatthewMoniz	Matthew Moniz	1
+@EverythingApplePro	EverythingApplePro	1
+@Techquickie	Techquickie	1
+@PhoneArena	PhoneArena	1
+@CleoAbram	Cleo Abram	1
+@mkbhd2	The Studio (MKBHD)	1
+@techmasterhq	Tech Master	1
+@GadgetIn	GadgetIn	1
+@hacksmith	Hacksmith Industries	1
+@UnboxDiaries	Unbox Diaries	1
+@techmoan	Techmoan	1
+@jlaservideo	styropyro	1
+#
+# ═══════════════════════════════════════════════════
+# ② AI·机器学习型 (ai-ml)
+# ═══════════════════════════════════════════════════
+@coldfusion	ColdFusion	2
+@3blue1brown	3Blue1Brown	2
+@lexfridman	Lex Fridman	2
+@fireship	Fireship	2
+# @NetworkChuck 已在 ⑥ 安全 中收录
+@TwoMinutePapers	Two Minute Papers	2
+@AndrejKarpathy	Andrej Karpathy	2
+@statquest	StatQuest	2
+@OpenAI	OpenAI	2
+@GoogleDeepMind	Google DeepMind	2
+@mreflow	MattVidPro AI	2
+@DeepLearningAI	DeepLearning.AI	2
+@anthropicai	Anthropic	2
+@LiamOttley	Liam Ottley	2
+@futurepedia_io	Futurepedia	2
+@matthew_berman	Matthew Berman	2
+@AIExplained-official	AI Explained	2
+@TheAiGrid	The AI Grid	2
+@YannicKilcher	Yannic Kilcher	2
+@WesRoth	Wes Roth	2
+@AllAboutAI	All About AI	2
+@TheAIAndy	The AI Andy	2
+@MachineLearningStreetTalk	MLST	2
+@TheoreticallyMedia	Theoretically Media	2
+@DaveShap	Dave Shap	2
+@RobertMilesAI	Robert Miles AI	2
+@samwitteveenai	Sam Witteveen	2
+@kozyrkov	Cassie Kozyrkov	2
+@AICoffeeBreak	AI Coffee Break	2
+@HenryAILabs	Henry AI Labs	2
+@TrelisResearch	Trelis Research	2
+@sentdex	sentdex	2
+# --- 扩展: AI·ML ---
+@MattWolfe	Matt Wolfe	2
+@DwarkeshPatel	Dwarkesh Patel	2
+@KrishNaik	Krish Naik	2
+@daniel_bourke	Daniel Bourke	2
+@NicholasRenotte	Nicholas Renotte	2
+@abhaborone	Abhishek Thakur	2
+@deeplizard	deeplizard	2
+@TheAIAdvantage	The AI Advantage	2
+@AssemblyAI	AssemblyAI	2
+@CodeEmporium	CodeEmporium	2
+@AladdinPersson	Aladdin Persson	2
+@JeremyHoward	Jeremy Howard	2
+@WelchLabs	Welch Labs	2
+@PatrickLoeber	Patrick Loeber	2
+@NormalizedNerd	Normalized Nerd	2
+@WhatsAI	What's AI	2
+@AIEngineering	AI Engineering	2
+@SirajRaval	Siraj Raval	2
+@AlexanderAmini	Alexander Amini	2
+@DataSchool	Data School	2
+@WhisperAI	Whisper AI	2
+@aiminds46	AI Minds	2
+@imaibuddy	AI Buddy	2
+@CorkinBrown	Corbin Brown	2
+@TinaHuang	Tina Huang	2
+@BlackMixture	Black Mixture	2
+@AIFoundations	AI Foundations	2
+#
+# ═══════════════════════════════════════════════════
+# ③ 编程开发型 (coding)
+# ═══════════════════════════════════════════════════
+@freecodecamp	freeCodeCamp	3
+@TraversyMedia	Traversy Media	3
+@thenewboston	thenewboston	3
+@CodeBullet	Code Bullet	3
+# @Fireship 已在 ② AI·ML 中收录
+@programmingwithmosh	Programming with Mosh	3
+@NetNinja	Net Ninja	3
+@WebDevSimplified	Web Dev Simplified	3
+@TechWithTimWeb	Tech With Tim	3
+@coreyms	Corey Schafer	3
+@Computerphile	Computerphile	3
+@derekbanas	Derek Banas	3
+@javascriptmastery	JavaScript Mastery	3
+@CleverProgrammer	Clever Programmer	3
+@CodingTrain	The Coding Train	3
+@KevinPowellCSS	Kevin Powell	3
+@academind	Academind	3
+@ForrestKnight	Forrest Knight	3
+@CalebCurryDev	Caleb Curry	3
+@hnasr	Hussein Nasser	3
+@ThePrimeTimeagen	ThePrimeTime	3
+@Codevolution	Codevolution	3
+@Codestackr	codeSTACKr	3
+@Kallehallden	Kalle Hallden	3
+@JamesQQuick	James Q Quick	3
+@coders_tape	Coders Tape	3
+@ThePrimeagen	ThePrimeagen	3
+@nickchapsas	Nick Chapsas	3
+@bawad	Ben Awad	3
+@t3dotgg	Theo	3
+@csdojo	CS Dojo	3
+@CodeWithHarry	CodeWithHarry	3
+@CoolMission	Cool Mission	3
+@CoderCoder	CoderCoder	3
+# --- 扩展: 编程开发 ---
+@Intellipaat	Intellipaat	3
+@simplilearnofficial	Simplilearn	3
+@brocodez	Bro Code	3
+@googledevelopers	Google for Developers	3
+@cs50	CS50 (Harvard)	3
+@NeetCode	NeetCode	3
+@claborle	Clément Mihailescu	3
+@williamlin168	William Lin	3
+@WilliamFiset	William Fiset	3
+@techlead	TechLead	3
+@jomaoppa	Joma Tech	3
+@AbdulBari	Abdul Bari	3
+@BenEater	Ben Eater	3
+@milocancode	Mike Dane	3
+@Socratica	Socratica	3
+@TechWithLucy	Tech With Lucy	3
+@DevOpsToolbox	DevOps Toolbox	3
+@ArjanCodes	Arjan Codes	3
+@JeffDelaney	Jeff Delaney (Fireship)	3
+@Telusko	Telusko	3
+@CursoEmVideo	Curso em Vídeo	3
+@anthonygg_	Anthony GG	3
+@JackHerrington	Jack Herrington	3
+@bytebyteio	ByteByteGo	3
+@MelkeyDev	Melkey	3
+@CodeAesthetic	CodeAesthetic	3
+# @LowLevelLearning 已在 ⑥ 安全 中收录
+@TheCodingSloth	The Coding Sloth	3
+@DevAsLife	Dev as Life	3
+#
+# ═══════════════════════════════════════════════════
+# ④ 科普·科学型 (science)
+# ═══════════════════════════════════════════════════
+@veritasium	Veritasium	4
+@vsauce	Vsauce	4
+@kurzgesagt	Kurzgesagt	4
+@markrober	Mark Rober	4
+@smartereveryday	SmarterEveryDay	4
+@TEDEd	TED-Ed	4
+@AsapSCIENCE	AsapSCIENCE	4
+@scishow	SciShow	4
+@NatGeo	National Geographic	4
+@vox	Vox	4
+@numberphile	Numberphile	4
+@SteveMould	Steve Mould	4
+@physicsgirl	Physics Girl	4
+@NileRed	NileRed	4
+@NileBlue	NileBlue	4
+@periodicvideos	Periodic Videos	4
+@sixtysymbols	Sixty Symbols	4
+@upandatom	Up and Atom	4
+@TheScienceAsylum	The Science Asylum	4
+@ObjectivityDocs	Objectivity	4
+@LookingGlassUniverse	Looking Glass Universe	4
+@dominictwalliman	Domain of Science	4
+@tibees	Tibees	4
+@theactionlab	The Action Lab	4
+@NightHawkInLight	NightHawkInLight	4
+@thecodyslab	Cody's Lab	4
+@whatdamath	Anton Petrov	4
+@coolworldslab	Cool Worlds	4
+@astrumspace	Astrum	4
+@DeepSkyVideos	Deep Sky Videos	4
+@pbssptime	PBS Space Time	4
+@TodayIFoundOut	Today I Found Out	4
+@ScienceClicEnglish	ScienceClic English	4
+@realscienceexplained	Real Science Explained	4
+# --- 扩展: 科普·科学 ---
+@CrashCourse	Crash Course	4
+@minutephysics	MinutePhysics	4
+@MinuteEarth	MinuteEarth	4
+@SabineHossenfelder	Sabine Hossenfelder	4
+@DrBecky	Dr. Becky	4
+@scottmanley	Scott Manley	4
+@EverydayAstronaut	Everyday Astronaut	4
+@isaacarthur	Isaac Arthur	4
+@AlphaPhoenixChannel	Alpha Phoenix	4
+@realscience	Real Science	4
+@JourneytoMicro	Journey to the Microcosmos	4
+@TierZoo	TierZoo	4
+@feraborone	Fermilab	4
+@ItsOkayToBeSmart	Its Okay To Be Smart	4
+@ElectroBOOM	ElectroBOOM	4
+@TED	TED	4
+@KhanAcademy	Khan Academy	4
+@BrainCraft	BrainCraft	4
+@AtlasPro	Atlas Pro	4
+@RealEngineering	Real Engineering	4
+@PracticalEngineering	Practical Engineering	4
+@Vsauce2	Vsauce2	4
+@Vsauce3	Vsauce3	4
+@melodysheep	melodysheep	4
+@ZefRank1	zefrank1	4
+@Animalogic	Animalogic	4
+@PhysicsVBlk	Physics Explained	4
+@PBSEons	PBS Eons	4
+@SciShowSpace	SciShow Space	4
+@BozmanScience	Bozeman Science	4
+@TheOrganicChemistryTutor	Organic Chemistry Tutor	4
+@MathTheBeautiful	Math The Beautiful	4
+#
+# ═══════════════════════════════════════════════════
+# ⑤ 科技新闻型 (tech-news)
+# ═══════════════════════════════════════════════════
+@WIRED	WIRED	5
+@RealLifeLore	RealLifeLore	5
+@tomscottgo	Tom Scott	5
+@wsj	Wall Street Journal	5
+@WendoverProductions	Wendover Productions	5
+@CNBC	CNBC	5
+@theverge	The Verge	5
+@halfasinteresting	Half as Interesting	5
+@techlinked	TechLinked	5
+@AppleExplained	Apple Explained	5
+@Mashable	Mashable	5
+@BloombergTechnology	Bloomberg Technology	5
+@asianometry	Asianometry	5
+@matttalktech	Matt Talks Tech	5
+@appleinsider	AppleInsider	5
+@techcrunch	TechCrunch	5
+@macrumors	MacRumors	5
+@AppleTrack	Apple Track	5
+@lukemiani	Luke Miani	5
+@GregsGadgets	Gregs Gadgets	5
+@techlore	Techlore	5
+@aplguy	The Apple Guy	5
+# --- 扩展: 科技新闻 ---
+@PolyMatter	PolyMatter	5
+@DigitalFoundry	Digital Foundry	5
+# @Vox 已在 ④ 科普 中收录
+@TheInfoGraphicsShow	The Infographics Show	5
+@VisualPolitik	VisualPolitik	5
+@JohnCoogan	John Coogan	5
+@ColdFusionTV	ColdFusion TV	5
+@Newsthink	Newsthink	5
+@TechAlt	TechAltar	5
+@TLDRTech	TLDR Tech	5
+@thelinuxgamer	The Linux Gamer	5
+@ShortCircuit	Short Circuit	5
+@Logically_Answered	Logically Answered	5
+#
+# ═══════════════════════════════════════════════════
+# ⑥ 极客·网络安全型 (security)
+# ═══════════════════════════════════════════════════
+@davidbombal	David Bombal	6
+@_JohnHammond	John Hammond	6
+@techwithtim	Tech With Tim	6
+@IBMTechnology	IBM Technology	6
+@professormesser	Professor Messer	6
+@HackerSploit	HackerSploit	6
+@hak5	Hak5	6
+@TCMSecurityAcademy	The Cyber Mentors	6
+@NullByteWHT	Null Byte	6
+@LiveOverflow	LiveOverflow	6
+@MentalOutlaw	Mental Outlaw	6
+@TheLinuxExperiment	The Linux Experiment	6
+@ippsec	IppSec	6
+@NahamSec	NahamSec	6
+@STOKfredrik	STÖK	6
+@LearnLinuxTV	Learn Linux TV	6
+@zSecurity	zSecurity	6
+@13Cubed	13Cubed	6
+@Seytonic	Seytonic	6
+@SimplyCyber	Simply Cyber	6
+@LowLevelLearning	Low Level Learning	6
+@InsiderPhD	InsiderPhD	6
+@DistroTube	DistroTube	6
+@ChrisTitusTech	Chris Titus Tech	6
+@WolfgangsChannel	Wolfgang's Channel	6
+@EzeeLinux	Joe Collins	6
+@Tib3rius	Tib3rius	6
+@pcsecuritychannel	PC Security Channel	6
+@networkchuck	NetworkChuck	6
+# --- 扩展: 极客·安全 ---
+@PinkDraconian	PinkDraconian	6
+@JackRhysider	Jack Rhysider (Darknet Diaries)	6
+@BlackHillsInfoSec	Black Hills InfoSec	6
+@TryHackMe	TryHackMe	6
+@CyberSecurityTV	CyberSecurity TV	6
+@InfosecInstitute	Infosec Institute	6
+@S4viOnLive	s4vitar	6
+@GuidedHacking	Guided Hacking	6
+@BugCrowd	Bugcrowd	6
+@ComputerphileSec	Computerphile Security	6
+@SakerMakura	SakerMakura	6
+@SecurityFWD	Security FWD	6
+@PwnFunction	PwnFunction	6
+@TheCyberExpert	The Cyber Expert	6
+@0xdf	0xdf	6
+@Rana_Khalil	Rana Khalil	6
